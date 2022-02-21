@@ -1,0 +1,16 @@
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Everymind\source\repos\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Everymind\Documents\POO\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
